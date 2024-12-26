@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recipe Recommender System: [TastyFinds](https://kellyli-tastyfinds.streamlit.app/)
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -170,3 +171,6 @@ Happy cooking and happy coding!
 
 *Kelly* c:
 
+=======
+# recipe-project
+>>>>>>> 3b2c4b3e7878529545bd990142b2a83d8776399a
